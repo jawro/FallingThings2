@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\cpproject\fallingthings\main.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FallingThings.vcxproj -> C:\CPproject\FallingThings\Debug\FallingThings.exe
